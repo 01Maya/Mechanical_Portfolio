@@ -27,7 +27,6 @@ export const metadata: Metadata = {
     "Hydraulics",
     "Assembly",
   ],
-    generator: 'v0.app'
 }
 
 export default function RootLayout({
