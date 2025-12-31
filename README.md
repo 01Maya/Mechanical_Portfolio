@@ -82,4 +82,8 @@ purpose, free of charge, as long as this notice is included.
 This software is provided "as is", without any warranty.
 
 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+
+
 
