@@ -17,7 +17,7 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Meet Patel | Mechanical Supervisor Portfolio✨",
   description:
-    "Portfolio of Meet Patel, a Mechanical Supervisor specializing in precision engineering, assembly, and heavy mechanical systems at L&T Hazira.✨",
+    "Portfolio of Meet Patel, a Mechanical Supervisor specializing in precision engineering, assembly, and heavy mechanical systems at L&T Hazira.⚙️✨",
   keywords: [
     "Mechanical Engineering",
     "Supervisor",
