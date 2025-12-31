@@ -72,4 +72,14 @@ Mechanical Supervisor | Precision Engineering | Defence Systems
 ## License
 This project is intended for personal portfolio use.
 
+MIT License
+
+Copyright (c) 2025 Mansi Patel (01Maya)
+
+Permission is granted to use, copy, modify, and share this software for any
+purpose, free of charge, as long as this notice is included.
+
+This software is provided "as is", without any warranty.
+
+
 
