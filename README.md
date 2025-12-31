@@ -1,6 +1,6 @@
 # Meet Patel – Mechanical Supervisor Portfolio✨
 
-## Overview
+## Overview ⚙️
 A professional personal portfolio showcasing the industrial journey, technical expertise, and strategic projects of a Mechanical Supervisor at L&T Defence.
 Designed to highlight precision engineering experience, leadership, and hands-on mechanical skills in a clean, modern layout.
 
