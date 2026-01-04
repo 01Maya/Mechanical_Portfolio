@@ -56,9 +56,14 @@ export function Hero() {
 
             <p className="text-xl md:text-2xl text-muted-foreground mb-12 max-w-xl leading-relaxed font-medium">
               Mechanical Supervisor at{" "}
-              <span className="text-foreground font-black underline decoration-primary/30 decoration-4">
+              <a
+                href="https://www.larsentoubro.com/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-foreground font-black underline decoration-primary/30 decoration-4 hover:decoration-primary transition-colors"
+              >
                 Larsen & Toubro
-              </span>
+              </a>
               . Engineering mission-critical systems with surgical accuracy and industrial strength.
             </p>
 
