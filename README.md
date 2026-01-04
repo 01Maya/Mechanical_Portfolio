@@ -29,7 +29,7 @@ Built with modern web technologies, the site emphasizes clarity, responsiveness,
 - Contact Section: Provides email, phone, location, and availability details.
 - Footer: Copyright and branding information.
 
-## Tech Stack
+## Tech Stack ✍🏻
 - Next.js
 - Tailwind CSS
 - Framer Motion
