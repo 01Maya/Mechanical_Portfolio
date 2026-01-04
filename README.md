@@ -18,7 +18,7 @@ Built with modern web technologies, the site emphasizes clarity, responsiveness,
 - Clean UI with consistent color system
 - Optimized for performance and accessibility
 
-## Sections
+## Sections 🗂️
 - Hero Section: Introduces the profile with name, role, and professional summary.
 - Professional Overview: Highlights role at L&T Defence with focus on precision engineering.
 - Industrial Journey: Displays work experience and career timeline.
