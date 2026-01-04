@@ -69,7 +69,7 @@ screenshot.png
 Meet Patel
 Mechanical Supervisor | Precision Engineering | Defence Systems
 
-## License
+## License 📝
 This project is intended for personal portfolio use.
 
 MIT License
