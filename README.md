@@ -38,7 +38,7 @@ Built with modern web technologies, the site emphasizes clarity, responsiveness,
 
 ---
 
-## Preview ✨
+## Preview 🌱
 Live Portfolio:
 
 https://meetp-portfolio.vercel.app/
