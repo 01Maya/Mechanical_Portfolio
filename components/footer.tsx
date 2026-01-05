@@ -11,7 +11,7 @@ export function Footer() {
           </div>
 
           <div className="flex gap-10 text-background text-[10px] uppercase tracking-[0.3em] font-black">
-            {["About", "Experience", "Projects", "Contact"].map((link) => (
+            {["About", "Experience", "Projects", "Skills"].map((link) => (
               <a key={link} href={`#${link.toLowerCase()}`} className="hover:text-industrial-blue transition-colors">
                 {link}
               </a>
