@@ -83,7 +83,7 @@ export function Hero() {
                 className="border-primary/20 text-foreground hover:bg-primary/5 rounded-none h-16 px-12 transition-all bg-transparent font-bold"
                 asChild
               >
-                <a href="/Meet-Patel.pdf" target="_blank" rel="noopener noreferrer" download>
+                <a href="/Meet Patel.pdf" target="_blank" rel="noopener noreferrer" download>
                   Get Resume <Download className="ml-2 w-5 h-5" />
                 </a>
               </Button>
