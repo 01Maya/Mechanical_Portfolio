@@ -44,6 +44,9 @@ Live Portfolio:
 
 https://meetp-portfolio.vercel.app/
 
+
+---
+
 ## Screenshot ✨
 Add a screenshot image in the project root and name it:
 screenshot.png
