@@ -66,6 +66,8 @@ screenshot.png
 5. Open in browser
    http://localhost:3000
 
+---
+
 ## Author
 Meet Patel
 Mechanical Supervisor | Precision Engineering | Defence Systems
