@@ -69,7 +69,7 @@ screenshot.png
 ## Author
 Meet Patel
 Mechanical Supervisor | Precision Engineering | Defence Systems
-
+---
 ## License 📝
 This project is intended for personal portfolio use.
 
