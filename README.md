@@ -10,6 +10,9 @@ This portfolio presents Meet Patel’s experience in high-precision mechanical a
 It focuses on real-world industrial work including automatic transmissions, hydraulic power packs, and heavy system integration.
 Built with modern web technologies, the site emphasizes clarity, responsiveness, and smooth user interaction.
 
+
+---
+
 ## Features 💎
 - Fully responsive design across desktop, tablet, and mobile
 - Smooth animations and transitions
