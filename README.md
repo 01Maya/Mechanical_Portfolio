@@ -5,6 +5,9 @@
 A professional personal portfolio showcasing the industrial journey, technical expertise, and strategic projects of a Mechanical Supervisor at L&T Defence.
 Designed to highlight precision engineering experience, leadership, and hands-on mechanical skills in a clean, modern layout.
 
+
+---
+
 ## Description 📝
 This portfolio presents Meet Patel’s experience in high-precision mechanical assembly, system integration, and defence-grade engineering projects.
 It focuses on real-world industrial work including automatic transmissions, hydraulic power packs, and heavy system integration.
